@@ -1,0 +1,37 @@
+{
+  "name": "city-3d-banner",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "editor": "vite --config editors/vite.config.ts --open /editors/landscape/",
+    "editor:3d": "vite --config editors/vite.config.ts --open /editors/scene/",
+    "optimize:models": "node scripts/optimize-models.mjs",
+    "optimize:models:sample": "node scripts/optimize-models.mjs kach.glb game.glb drova.glb",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit",
+    "build": "npm run typecheck && vite build",
+    "check": "npm run test && npm run typecheck && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@cloudflare/vite-plugin": "^1.37.1",
+    "@cloudflare/workers-types": "^4.20260515.1",
+    "@gltf-transform/cli": "^4.4.2",
+    "@openai/sites-vite-plugin": "^0.2.0",
+    "@types/three": "^0.185.0",
+    "typescript": "~6.0.2",
+    "vite": "^8.2.0",
+    "vitest": "^5.0.1",
+    "wrangler": "^4.92.0"
+  },
+  "dependencies": {
+    "@fontsource-variable/inter": "^5.3.0",
+    "three": "^0.185.1",
+    "three-mesh-bvh": "^0.9.15"
+  },
+  "engines": {
+    "node": ">=22.12.0"
+  }
+}

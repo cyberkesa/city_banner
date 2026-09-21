@@ -1,0 +1,43 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Generated optimization candidates
+artifacts/models-optimized-candidate/
+**/*.blend
+
+# OS files
+.DS_Store
+Thumbs.db
+__MACOSX/
+
+# Editor / IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+npm-debug.log*
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Vite
+*.local
+.wrangler/
+.openai/
+.dev.vars*
+
+# Temporary files
+banner/public/landscape-map.json.tmp
+*.tmp
+
+# Legacy / backups
+legacy/

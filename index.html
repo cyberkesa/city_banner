@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <title>Интерактивный 3D-каталог</title>
+  </head>
+  <body>
+    <div id="app">
+      <div id="scene"></div>
+      <div id="label" role="status"></div>
+      <div id="category-callout" aria-live="polite">
+        <svg aria-hidden="true">
+          <path id="category-callout-line"></path>
+          <circle id="category-callout-ripple" r="5"></circle>
+          <circle id="category-callout-dot" r="5"></circle>
+          <g id="category-callout-click-cue">
+            <path class="callout-demo-cursor" d="M0 0 4 18 8 12 15 10Z"></path>
+          </g>
+        </svg>
+        <a id="category-callout-link" href="https://new.hobbyka.ru/catalog/">
+          <strong id="category-callout-title"></strong>
+          <span class="category-callout-action" aria-hidden="true">
+            Смотреть товары <span>→</span>
+          </span>
+        </a>
+      </div>
+    </div>
+
+    <script
+      type="module"
+      src="./banner/src/main.ts"
+    ></script>
+  </body>
+</html>

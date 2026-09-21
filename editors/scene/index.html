@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0"
+    />
+    <meta
+      name="robots"
+      content="noindex, nofollow"
+    />
+    <title>3D-редактор объектов</title>
+  </head>
+  <body>
+    <div id="app">
+      <div id="scene"></div>
+      <div id="label" role="status"></div>
+      <div id="category-callout" aria-live="polite">
+        <svg aria-hidden="true">
+          <path id="category-callout-line"></path>
+          <circle id="category-callout-ripple" r="5"></circle>
+          <circle id="category-callout-dot" r="5"></circle>
+          <g id="category-callout-click-cue">
+            <path class="callout-demo-cursor" d="M0 0 4 18 8 12 15 10Z"></path>
+          </g>
+        </svg>
+        <a id="category-callout-link" href="https://new.hobbyka.ru/catalog/">
+          <strong id="category-callout-title"></strong>
+          <span class="category-callout-action" aria-hidden="true">
+            Смотреть товары <span>→</span>
+          </span>
+        </a>
+      </div>
+
+      <button id="edit-3d-toggle" type="button" aria-label="Редактировать в 3D">3D</button>
+      <aside id="edit-3d-panel" hidden>
+        <div class="edit-panel-heading">
+          <div>
+            <strong>Редактор объектов</strong>
+            <span id="edit-3d-status">Выберите объект на сцене</span>
+          </div>
+          <button id="edit-3d-close" type="button" aria-label="Закрыть">×</button>
+        </div>
+        <div id="edit-3d-properties" class="edit-empty">
+          Кликните по объекту, отдельному дереву или кусту.
+        </div>
+        <div class="edit-panel-footer">
+          <a id="open-landscape-editor" href="/editors/landscape/">Открыть редактор карты</a>
+          <button id="edit-3d-save" type="button" disabled>Сохранить</button>
+        </div>
+      </aside>
+    </div>
+
+    <script type="module" src="./main.ts"></script>
+  </body>
+</html>

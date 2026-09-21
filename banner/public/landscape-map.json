@@ -1,0 +1,4918 @@
+{
+  "version": 1,
+  "width": 70,
+  "depth": 50,
+  "surfaces": [
+    {
+      "id": "surface-mtqyrycp-2",
+      "name": "Зона 2",
+      "material": "grass",
+      "points": [
+        [
+          -34.37960390472361,
+          -2.25
+        ],
+        [
+          -33.12960390472361,
+          -4
+        ],
+        [
+          -31.62960390472361,
+          -4
+        ],
+        [
+          -30.5,
+          -3.75
+        ],
+        [
+          -30.5,
+          -0.25
+        ],
+        [
+          -33.75,
+          -0.25
+        ]
+      ],
+      "cornerRadius": 0.35,
+      "handles": [
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        }
+      ]
+    },
+    {
+      "id": "surface-mtr5vuie-1",
+      "name": "Площадка для дрессировки собак",
+      "material": "sand",
+      "points": [
+        [
+          -3.25,
+          -2.5
+        ],
+        [
+          -3.25,
+          0.5
+        ],
+        [
+          3.75,
+          0.5
+        ],
+        [
+          3.75,
+          -2.5
+        ]
+      ],
+      "cornerRadius": 0.35,
+      "handles": [
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        }
+      ]
+    },
+    {
+      "id": "surface-mtrle4kj-1",
+      "name": "Зона 13",
+      "material": "grass",
+      "points": [
+        [
+          33.24999999999999,
+          2.5
+        ],
+        [
+          35.24999999999999,
+          2.5
+        ],
+        [
+          34.74999999999999,
+          1.25
+        ]
+      ],
+      "cornerRadius": 0.35,
+      "handles": [
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        }
+      ]
+    },
+    {
+      "id": "surface-mttx0qj0-1",
+      "name": "Зона 13",
+      "material": "grass",
+      "points": [
+        [
+          4.75,
+          0.5
+        ],
+        [
+          4.75,
+          -4.25
+        ],
+        [
+          11.75,
+          -4.25
+        ],
+        [
+          11.75,
+          0.5
+        ]
+      ],
+      "cornerRadius": 0.35,
+      "handles": [
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        }
+      ]
+    },
+    {
+      "id": "surface-mttx12kn-2",
+      "name": "Зона 14",
+      "material": "paving-gray",
+      "points": [
+        [
+          5.75,
+          -3.25
+        ],
+        [
+          10.75,
+          -3.25
+        ],
+        [
+          10.75,
+          -0.25
+        ],
+        [
+          5.75,
+          -0.25
+        ]
+      ],
+      "cornerRadius": 0.35,
+      "handles": [
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        }
+      ]
+    },
+    {
+      "id": "surface-mttzc32w-1",
+      "name": "Зона 13",
+      "material": "grass",
+      "points": [
+        [
+          -3.25,
+          -6.75
+        ],
+        [
+          -3.25,
+          -5.25
+        ],
+        [
+          3.75,
+          -5.25
+        ],
+        [
+          3.75,
+          -6.75
+        ]
+      ],
+      "cornerRadius": 1,
+      "handles": [
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        }
+      ]
+    },
+    {
+      "id": "surface-mttzg0cq-3",
+      "name": "Зона 15",
+      "material": "grass",
+      "points": [
+        [
+          13.25,
+          -8.75
+        ],
+        [
+          16,
+          -8.75
+        ],
+        [
+          16,
+          0.5
+        ],
+        [
+          13.25,
+          0.5
+        ]
+      ],
+      "cornerRadius": 0.35,
+      "handles": [
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        }
+      ]
+    },
+    {
+      "id": "surface-mttzgkjr-4",
+      "name": "Зона 11",
+      "material": "grass",
+      "points": [
+        [
+          -20.5,
+          -4
+        ],
+        [
+          -20.5,
+          0.5
+        ],
+        [
+          -14.25,
+          0.5
+        ],
+        [
+          -14.25,
+          -4
+        ]
+      ],
+      "cornerRadius": 0.35,
+      "handles": [
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        }
+      ]
+    },
+    {
+      "id": "surface-mtvfylqs-1",
+      "name": "Зона 12 — копия",
+      "material": "grass",
+      "points": [
+        [
+          30,
+          -12
+        ],
+        [
+          30,
+          -16.5
+        ],
+        [
+          24.75,
+          -16.5
+        ],
+        [
+          24.75,
+          -12
+        ]
+      ],
+      "cornerRadius": 0.35,
+      "handles": [
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        }
+      ]
+    },
+    {
+      "id": "surface-mua0710e-1",
+      "name": "Зона 12 — копия — копия",
+      "material": "grass",
+      "points": [
+        [
+          30,
+          -3.75
+        ],
+        [
+          30,
+          -8.25
+        ],
+        [
+          24.75,
+          -8.25
+        ],
+        [
+          24.75,
+          -3.75
+        ]
+      ],
+      "cornerRadius": 0.35,
+      "handles": [
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        }
+      ]
+    },
+    {
+      "id": "surface-mtugzh4z-3",
+      "name": "Зона 15",
+      "material": "rubber-gray",
+      "points": [
+        [
+          -20,
+          -3.5
+        ],
+        [
+          -16.25,
+          -3.5
+        ],
+        [
+          -16.25,
+          0
+        ],
+        [
+          -20,
+          0
+        ]
+      ],
+      "cornerRadius": 0.35,
+      "handles": [
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        }
+      ]
+    },
+    {
+      "id": "surface-mtuhilwm-23",
+      "name": "Зона 16",
+      "material": "grass",
+      "points": [
+        [
+          -35,
+          -20
+        ],
+        [
+          -18.75,
+          -20
+        ],
+        [
+          -18.75,
+          -13.75
+        ],
+        [
+          -35,
+          -13.75
+        ]
+      ],
+      "cornerRadius": 0.35,
+      "handles": [
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        }
+      ]
+    },
+    {
+      "id": "surface-mu9z37wm-1",
+      "name": "Зона 16 — копия",
+      "material": "grass",
+      "points": [
+        [
+          -15,
+          -20
+        ],
+        [
+          0,
+          -20
+        ],
+        [
+          0,
+          -13.75
+        ],
+        [
+          -15,
+          -13.75
+        ]
+      ],
+      "cornerRadius": 0.35,
+      "handles": [
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        }
+      ]
+    },
+    {
+      "id": "surface-mu9z3bls-2",
+      "name": "Зона 16 — копия — копия",
+      "material": "grass",
+      "points": [
+        [
+          5.5,
+          -20
+        ],
+        [
+          17.5,
+          -20
+        ],
+        [
+          17.5,
+          -13.75
+        ],
+        [
+          5.5,
+          -13.75
+        ]
+      ],
+      "cornerRadius": 0.35,
+      "handles": [
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        }
+      ]
+    },
+    {
+      "id": "surface-mtvclyc8-1",
+      "name": "Зона 15",
+      "material": "grass",
+      "points": [
+        [
+          -13.25,
+          0.5
+        ],
+        [
+          -4.75,
+          0.5
+        ],
+        [
+          -4.75,
+          -6
+        ],
+        [
+          -13.25,
+          -6
+        ]
+      ],
+      "cornerRadius": 0.35,
+      "handles": [
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        }
+      ]
+    },
+    {
+      "id": "surface-mtr2gzct-1",
+      "name": "Детская площадка покрытие",
+      "material": "rubber-red",
+      "points": [
+        [
+          -12.75,
+          -5.25
+        ],
+        [
+          -5.25,
+          -5.25
+        ],
+        [
+          -5.25,
+          0
+        ],
+        [
+          -12.75,
+          0
+        ]
+      ],
+      "cornerRadius": 0.85,
+      "handles": [
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        }
+      ]
+    },
+    {
+      "id": "surface-mtvpidss-5",
+      "name": "Зона 15",
+      "material": "grass",
+      "points": [
+        [
+          -21.75,
+          0.5
+        ],
+        [
+          -26.25,
+          0.5
+        ],
+        [
+          -26.25,
+          -6.25
+        ],
+        [
+          -21.75,
+          -6.25
+        ]
+      ],
+      "cornerRadius": 0.35,
+      "handles": [
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        },
+        {
+          "incoming": null,
+          "outgoing": null
+        }
+      ]
+    }
+  ],
+  "paths": [],
+  "vegetation": [
+    {
+      "id": "tree-02",
+      "kind": "tree",
+      "model": "/models/tree1.glb",
+      "position": [
+        -13.025279363816889,
+        -16.298622075167785
+      ],
+      "scale": 0.72,
+      "rotation": 42
+    },
+    {
+      "id": "tree-03",
+      "kind": "tree",
+      "model": "/models/tree2.glb",
+      "position": [
+        6.04107912660789,
+        -16.82744190172297
+      ],
+      "scale": 0.72,
+      "rotation": 170
+    },
+    {
+      "id": "tree-04",
+      "kind": "tree",
+      "model": "/models/tree3.glb",
+      "position": [
+        -15.416720544518341,
+        -2.9244692171637148
+      ],
+      "scale": 0.74,
+      "rotation": 285
+    },
+    {
+      "id": "tree-06",
+      "kind": "tree",
+      "model": "/models/tree5.glb",
+      "position": [
+        -21.5,
+        -17.25
+      ],
+      "scale": 0.92,
+      "rotation": 310
+    },
+    {
+      "id": "tree-07",
+      "kind": "tree",
+      "model": "/models/tree6.glb",
+      "position": [
+        -23.073787060363824,
+        -18.71760842465919
+      ],
+      "scale": 0.82,
+      "rotation": 145
+    },
+    {
+      "id": "tree-08",
+      "kind": "tree",
+      "model": "/models/tree7.glb",
+      "position": [
+        -2.267657691469839,
+        -17.648348579601098
+      ],
+      "scale": 0.82,
+      "rotation": 35
+    },
+    {
+      "id": "tree-09",
+      "kind": "tree",
+      "model": "/models/tree8.glb",
+      "position": [
+        -15.058212774460024,
+        -1.1494897451437431
+      ],
+      "scale": 0.9,
+      "rotation": 205
+    },
+    {
+      "id": "tree-10",
+      "kind": "tree",
+      "model": "/models/tree9.glb",
+      "position": [
+        12.5,
+        -18
+      ],
+      "scale": 0.86,
+      "rotation": 95
+    },
+    {
+      "id": "tree-11",
+      "kind": "tree",
+      "model": "/models/tree0.glb",
+      "position": [
+        9.25,
+        -15.5
+      ],
+      "scale": 0.74,
+      "rotation": 265
+    },
+    {
+      "id": "bush-boulevard-01",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        11,
+        -15.5
+      ],
+      "scale": 0.66,
+      "rotation": 20
+    },
+    {
+      "id": "bush-boulevard-02",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        6.536111670013871,
+        -14.145890080244307
+      ],
+      "scale": 0.66,
+      "rotation": 120
+    },
+    {
+      "id": "bush-boulevard-03",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        11.20194341805609,
+        0.022475034162983576
+      ],
+      "scale": 0.66,
+      "rotation": 220
+    },
+    {
+      "id": "bush-transition-bp-01",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -7.25,
+        -18.75
+      ],
+      "scale": 0.66,
+      "rotation": 70
+    },
+    {
+      "id": "bush-park-01",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        12.921444187994256,
+        -17.139141814495908
+      ],
+      "scale": 0.66,
+      "rotation": 15
+    },
+    {
+      "id": "bush-park-02",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        14.52142241420059,
+        -15.086820067085068
+      ],
+      "scale": 0.66,
+      "rotation": 100
+    },
+    {
+      "id": "bush-park-03",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -11.596441459698582,
+        -5.370180769258294
+      ],
+      "scale": 0.66,
+      "rotation": 190
+    },
+    {
+      "id": "bush-park-04",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -15.053832383961975,
+        0.031820595602638946
+      ],
+      "scale": 0.66,
+      "rotation": 260
+    },
+    {
+      "id": "bush-sport-01",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -1.25,
+        -15.75
+      ],
+      "scale": 0.66,
+      "rotation": 80
+    },
+    {
+      "id": "bush-sport-02",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -3.75,
+        -16.25
+      ],
+      "scale": 0.66,
+      "rotation": 180
+    },
+    {
+      "id": "bush-terrace-01",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -7.25,
+        -17.5
+      ],
+      "scale": 0.66,
+      "rotation": 30
+    },
+    {
+      "id": "bush-terrace-02",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        12.75,
+        -15.5
+      ],
+      "scale": 0.66,
+      "rotation": 140
+    },
+    {
+      "id": "bush-terrace-03",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -6,
+        -18
+      ],
+      "scale": 0.66,
+      "rotation": 220
+    },
+    {
+      "id": "bush-transition-ts-01",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -2.25,
+        -17
+      ],
+      "scale": 0.66,
+      "rotation": 90
+    },
+    {
+      "id": "bush-service-02",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -4.75,
+        -18.75
+      ],
+      "scale": 0.66,
+      "rotation": 210
+    },
+    {
+      "id": "bush-service-03",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -9.5,
+        -17.5
+      ],
+      "scale": 0.66,
+      "rotation": 300
+    },
+    {
+      "id": "bush-mtoaqltr-1",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -5.5,
+        -16.25
+      ],
+      "scale": 0.66,
+      "rotation": 154
+    },
+    {
+      "id": "bush-mtoaqmfu-2",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -31.523621555784672,
+        -1.121806890696618
+      ],
+      "scale": 0.66,
+      "rotation": 278
+    },
+    {
+      "id": "bush-mtoaqmrw-3",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -31.769891500257927,
+        -17.5079057315129
+      ],
+      "scale": 0.66,
+      "rotation": 151
+    },
+    {
+      "id": "bush-mtoaqn8r-4",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -21.5,
+        -15.25
+      ],
+      "scale": 0.66,
+      "rotation": 162
+    },
+    {
+      "id": "bush-mtoaqnl8-5",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        13.75,
+        -6
+      ],
+      "scale": 0.66,
+      "rotation": 72
+    },
+    {
+      "id": "bush-mtoaqnz8-6",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        15.5,
+        -7.25
+      ],
+      "scale": 0.66,
+      "rotation": 144
+    },
+    {
+      "id": "bush-mtoaqobn-7",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -10.52776380657565,
+        -5.377847872775693
+      ],
+      "scale": 0.66,
+      "rotation": 190
+    },
+    {
+      "id": "bush-mtoaqopo-8",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -22.75,
+        -14.75
+      ],
+      "scale": 0.66,
+      "rotation": 14
+    },
+    {
+      "id": "bush-mtoaqp3g-9",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        9.5,
+        -16.75
+      ],
+      "scale": 0.66,
+      "rotation": 268
+    },
+    {
+      "id": "bush-mtqytjgv-5",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -31.32268086162516,
+        -1.5020386860854416
+      ],
+      "scale": 0.66,
+      "rotation": 53
+    },
+    {
+      "id": "bush-mtqytkt8-7",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        15.5,
+        -5
+      ],
+      "scale": 0.66,
+      "rotation": 228
+    },
+    {
+      "id": "bush-mtqytlbs-8",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        13.75,
+        -4.5
+      ],
+      "scale": 0.66,
+      "rotation": 62
+    },
+    {
+      "id": "bush-mtqytmie-9",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        13.740294468858664,
+        -1.5009888050167604
+      ],
+      "scale": 0.66,
+      "rotation": 141
+    },
+    {
+      "id": "bush-mtqytnmw-10",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        13.75,
+        -2.25
+      ],
+      "scale": 0.66,
+      "rotation": 320
+    },
+    {
+      "id": "bush-mtqytodh-11",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        14.258610409022083,
+        -0.824123561014801
+      ],
+      "scale": 0.66,
+      "rotation": 317
+    },
+    {
+      "id": "bush-mtqytp0g-12",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        15.5,
+        -4.25
+      ],
+      "scale": 0.66,
+      "rotation": 329
+    },
+    {
+      "id": "bush-mtqytquu-13",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        15.5,
+        -8
+      ],
+      "scale": 0.66,
+      "rotation": 296
+    },
+    {
+      "id": "bush-mtqytr8p-14",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        15.5,
+        -2.75
+      ],
+      "scale": 0.66,
+      "rotation": 119
+    },
+    {
+      "id": "bush-mtqytrqj-15",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -11.007485867869718,
+        -5.2137955338746025
+      ],
+      "scale": 0.66,
+      "rotation": 197
+    },
+    {
+      "id": "bush-mtqytsbu-16",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -15.148131988876003,
+        -3.4951245509494875
+      ],
+      "scale": 0.66,
+      "rotation": 68
+    },
+    {
+      "id": "bush-mtqytsxd-17",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -30.875761769847387,
+        -3.100824475914921
+      ],
+      "scale": 0.66,
+      "rotation": 57
+    },
+    {
+      "id": "bush-mtqytwdv-21",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -32.271319927098844,
+        -0.7810783800291414
+      ],
+      "scale": 0.66,
+      "rotation": 40
+    },
+    {
+      "id": "bush-mtqytx0d-22",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -15.266837455495974,
+        -1.618577591161353
+      ],
+      "scale": 0.66,
+      "rotation": 155
+    },
+    {
+      "id": "bush-mtqytxf1-23",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        15.59382021548484,
+        -3.6666060649932106
+      ],
+      "scale": 0.66,
+      "rotation": 164
+    },
+    {
+      "id": "bush-mtqytxv8-24",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -12.07143513919739,
+        -5.3791708470679325
+      ],
+      "scale": 0.66,
+      "rotation": 278
+    },
+    {
+      "id": "bush-mtqytzb5-25",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -32.77836818450244,
+        -1.3315179885398916
+      ],
+      "scale": 0.66,
+      "rotation": 171
+    },
+    {
+      "id": "bush-mtqytzrd-26",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -33.790708124947116,
+        -1.0849459602916358
+      ],
+      "scale": 0.66,
+      "rotation": 97
+    },
+    {
+      "id": "bush-mtqyu0vr-27",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -33.37960390472361,
+        -1.5
+      ],
+      "scale": 0.66,
+      "rotation": 309
+    },
+    {
+      "id": "bush-mtqyu13m-28",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -32.31201852879443,
+        -2.1481972805456255
+      ],
+      "scale": 0.66,
+      "rotation": 70
+    },
+    {
+      "id": "bush-mtqyu25z-29",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -32.7874204556513,
+        -2.2553766345456374
+      ],
+      "scale": 0.66,
+      "rotation": 76
+    },
+    {
+      "id": "bush-mtqyu2ke-30",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -33.716015475314464,
+        -2.198425504326096
+      ],
+      "scale": 0.66,
+      "rotation": 24
+    },
+    {
+      "id": "bush-mtqyu318-31",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        34.75,
+        1.75
+      ],
+      "scale": 0.66,
+      "rotation": 129
+    },
+    {
+      "id": "bush-mtqyu3hh-32",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        33.75,
+        2.25
+      ],
+      "scale": 0.66,
+      "rotation": 51
+    },
+    {
+      "id": "bush-mtqyu3ss-33",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        34.25,
+        1.75
+      ],
+      "scale": 0.66,
+      "rotation": 317
+    },
+    {
+      "id": "bush-mtqyu4d4-34",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        34.5,
+        2.25
+      ],
+      "scale": 0.66,
+      "rotation": 204
+    },
+    {
+      "id": "tree-mtqyua1n-35",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -32.843999158899194,
+        -1.7219252297480665
+      ],
+      "scale": 0.8,
+      "rotation": 18
+    },
+    {
+      "id": "tree-mtqyucm1-36",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        15.024237203439064,
+        -0.46695477840478183
+      ],
+      "scale": 0.8,
+      "rotation": 244
+    },
+    {
+      "id": "bush-mtr78m4r-1",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -15.26575974837695,
+        -0.9905827530131894
+      ],
+      "scale": 0.66,
+      "rotation": 51
+    },
+    {
+      "id": "bush-mtr78mo7-2",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -3.350086676719826,
+        -15.671390699468343
+      ],
+      "scale": 0.66,
+      "rotation": 130
+    },
+    {
+      "id": "bush-mtr78n00-3",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -14.648382361789942,
+        -1.0601964650422584
+      ],
+      "scale": 0.66,
+      "rotation": 260
+    },
+    {
+      "id": "bush-mtr78nqj-4",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        13.756579339599284,
+        -0.7908986274078558
+      ],
+      "scale": 0.66,
+      "rotation": 350
+    },
+    {
+      "id": "bush-mtr78p7m-6",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        0.24349628819553626,
+        -5.58690056085768
+      ],
+      "scale": 0.66,
+      "rotation": 240
+    },
+    {
+      "id": "bush-mtr78q0s-8",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -2.4615873153980203,
+        -5.799823014694759
+      ],
+      "scale": 0.66,
+      "rotation": 66
+    },
+    {
+      "id": "bush-mtr78qsy-9",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -8.701384043317773,
+        -5.36867004053482
+      ],
+      "scale": 0.66,
+      "rotation": 102
+    },
+    {
+      "id": "bush-mtr78r27-10",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -30.5,
+        -18
+      ],
+      "scale": 0.66,
+      "rotation": 8
+    },
+    {
+      "id": "bush-mtr78rb0-11",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -15.847313389163986,
+        -0.9017837119392844
+      ],
+      "scale": 0.66,
+      "rotation": 226
+    },
+    {
+      "id": "bush-mtr78sor-12",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -30.87769754074496,
+        -1.2387025620626027
+      ],
+      "scale": 0.66,
+      "rotation": 71
+    },
+    {
+      "id": "bush-mtr78sxb-13",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -31.79862252052414,
+        -0.6857847973179609
+      ],
+      "scale": 0.66,
+      "rotation": 70
+    },
+    {
+      "id": "bush-mtr78tv4-14",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        15.46576452021695,
+        -1.3295184554301613
+      ],
+      "scale": 0.66,
+      "rotation": 142
+    },
+    {
+      "id": "bush-mtr82txm-3",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        15.5,
+        -8.75
+      ],
+      "scale": 0.66,
+      "rotation": 218
+    },
+    {
+      "id": "bush-mtr82uhr-4",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        15.113663857473625,
+        -2.559209204727189
+      ],
+      "scale": 0.66,
+      "rotation": 355
+    },
+    {
+      "id": "bush-mtr82va3-5",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -6.062210008467503,
+        0.35268370781393266
+      ],
+      "scale": 0.66,
+      "rotation": 25
+    },
+    {
+      "id": "bush-mtr82vxt-6",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        13.75,
+        -8.25
+      ],
+      "scale": 0.66,
+      "rotation": 199
+    },
+    {
+      "id": "bush-mtr82w6d-7",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        13.75,
+        -7.5
+      ],
+      "scale": 0.66,
+      "rotation": 44
+    },
+    {
+      "id": "bush-mtr82wg4-8",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        13.75,
+        -6.75
+      ],
+      "scale": 0.66,
+      "rotation": 271
+    },
+    {
+      "id": "bush-mtr82x1g-9",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        7.5,
+        -15.25
+      ],
+      "scale": 0.66,
+      "rotation": 341
+    },
+    {
+      "id": "bush-mtr82xir-10",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        15.5,
+        -5.75
+      ],
+      "scale": 0.66,
+      "rotation": 57
+    },
+    {
+      "id": "bush-mtr82ytn-11",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -30.87960390472361,
+        -2.25
+      ],
+      "scale": 0.66,
+      "rotation": 1
+    },
+    {
+      "id": "bush-mtr82z1j-12",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        13.75,
+        -3
+      ],
+      "scale": 0.66,
+      "rotation": 126
+    },
+    {
+      "id": "bush-mtr82zkm-13",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        13.747827395241302,
+        -3.7436337651806433
+      ],
+      "scale": 0.66,
+      "rotation": 196
+    },
+    {
+      "id": "bush-mtr82zym-14",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        15.5,
+        -3.5
+      ],
+      "scale": 0.66,
+      "rotation": 145
+    },
+    {
+      "id": "bush-mtr830ym-15",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        13.75,
+        -5.25
+      ],
+      "scale": 0.66,
+      "rotation": 233
+    },
+    {
+      "id": "bush-mtr831lf-16",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        27.864407320609757,
+        -5.163796217025881
+      ],
+      "scale": 0.66,
+      "rotation": 335
+    },
+    {
+      "id": "bush-mtr831uo-17",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        27.1239474719454,
+        -5.53465202862429
+      ],
+      "scale": 0.66,
+      "rotation": 87
+    },
+    {
+      "id": "bush-mtr8322v-18",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        29.13308770644238,
+        -6.775330553203064
+      ],
+      "scale": 0.66,
+      "rotation": 23
+    },
+    {
+      "id": "bush-mtr832cd-19",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        26.536196857228646,
+        -6.341400728821064
+      ],
+      "scale": 0.66,
+      "rotation": 41
+    },
+    {
+      "id": "bush-mtr832k9-20",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        26.47885832554408,
+        -13.705168628550187
+      ],
+      "scale": 0.66,
+      "rotation": 170
+    },
+    {
+      "id": "bush-mtr832ta-21",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        25.743205867968783,
+        -4.929219749124318
+      ],
+      "scale": 0.66,
+      "rotation": 310
+    },
+    {
+      "id": "bush-mtr8332o-22",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        27.285623061517697,
+        -7.4733392697962095
+      ],
+      "scale": 0.66,
+      "rotation": 312
+    },
+    {
+      "id": "bush-mtr833bx-23",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        25.115989060176787,
+        -7.135415868216178
+      ],
+      "scale": 0.66,
+      "rotation": 263
+    },
+    {
+      "id": "bush-mtr833kh-24",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        26.308939936696362,
+        -15.259046015047314
+      ],
+      "scale": 0.66,
+      "rotation": 300
+    },
+    {
+      "id": "tree-mtr835w5-25",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        28.072985312884157,
+        -5.683128912616809
+      ],
+      "scale": 0.8,
+      "rotation": 333
+    },
+    {
+      "id": "tree-mtr836mf-26",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        27.49654142694893,
+        -14.135457575216595
+      ],
+      "scale": 0.8,
+      "rotation": 319
+    },
+    {
+      "id": "tree-mtr83a33-27",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -31.016412676962315,
+        -1.5736239056313934
+      ],
+      "scale": 0.8,
+      "rotation": -35
+    },
+    {
+      "id": "tree-mtr83bg5-28",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -29.38573638473838,
+        -17.071887903180745
+      ],
+      "scale": 0.8,
+      "rotation": 189
+    },
+    {
+      "id": "bush-mtrcacbv-6",
+      "kind": "bush",
+      "model": "/models/shrub-09-giant-green.glb",
+      "position": [
+        -14.754467627885745,
+        -2.5331681929325995
+      ],
+      "scale": 0.66,
+      "rotation": 313
+    },
+    {
+      "id": "bush-mtrcadda-7",
+      "kind": "bush",
+      "model": "/models/shrub-09-giant-green.glb",
+      "position": [
+        -15.829392680729267,
+        -2.9818447578201344
+      ],
+      "scale": 0.66,
+      "rotation": 151
+    },
+    {
+      "id": "bush-mtrcaeiq-8",
+      "kind": "bush",
+      "model": "/models/shrub-09-giant-green.glb",
+      "position": [
+        14.844262172100173,
+        -1.2331173654728005
+      ],
+      "scale": 0.66,
+      "rotation": 200
+    },
+    {
+      "id": "bush-mtrcagjy-9",
+      "kind": "bush",
+      "model": "/models/shrub-09-giant-green.glb",
+      "position": [
+        7.2756770514314155,
+        -17.129447652162085
+      ],
+      "scale": 0.66,
+      "rotation": 353
+    },
+    {
+      "id": "bush-mtrcagzu-10",
+      "kind": "bush",
+      "model": "/models/shrub-09-giant-green.glb",
+      "position": [
+        -29.25,
+        -15.75
+      ],
+      "scale": 0.66,
+      "rotation": 240
+    },
+    {
+      "id": "bush-mtrcahxn-11",
+      "kind": "bush",
+      "model": "/models/shrub-09-giant-green.glb",
+      "position": [
+        15.5,
+        -6.5
+      ],
+      "scale": 0.66,
+      "rotation": 92
+    },
+    {
+      "id": "bush-mtrccrqe-14",
+      "kind": "bush",
+      "model": "/models/shrub-08-giant-cream.glb",
+      "position": [
+        28.315590571690052,
+        -7.115472874988477
+      ],
+      "scale": 0.66,
+      "rotation": 123
+    },
+    {
+      "id": "bush-mtrccsug-15",
+      "kind": "bush",
+      "model": "/models/shrub-08-giant-cream.glb",
+      "position": [
+        28.24496064249749,
+        -13.032788456440482
+      ],
+      "scale": 0.66,
+      "rotation": 32
+    },
+    {
+      "id": "bush-mtrcctq5-16",
+      "kind": "bush",
+      "model": "/models/shrub-08-giant-cream.glb",
+      "position": [
+        26.351072817542985,
+        -7.518281868355269
+      ],
+      "scale": 0.66,
+      "rotation": 90
+    },
+    {
+      "id": "bush-mtrccugx-17",
+      "kind": "bush",
+      "model": "/models/shrub-08-giant-cream.glb",
+      "position": [
+        28.311681369410735,
+        -14.73516384538295
+      ],
+      "scale": 0.66,
+      "rotation": 284
+    },
+    {
+      "id": "bush-mtrccv8y-18",
+      "kind": "bush",
+      "model": "/models/shrub-08-giant-cream.glb",
+      "position": [
+        27.9730873218883,
+        -14.619362862304907
+      ],
+      "scale": 0.66,
+      "rotation": 205
+    },
+    {
+      "id": "bush-mttx18pe-3",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        5.5885338909743325,
+        0.16109735769331124
+      ],
+      "scale": 0.66,
+      "rotation": 285
+    },
+    {
+      "id": "bush-mttx198l-4",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        5.595769668198784,
+        -1.2531260734309448
+      ],
+      "scale": 0.66,
+      "rotation": 119
+    },
+    {
+      "id": "bush-mttx19of-5",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        5.111223555485935,
+        -0.4043983846247201
+      ],
+      "scale": 0.66,
+      "rotation": 355
+    },
+    {
+      "id": "bush-mttx1a2i-6",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        5.1790167751043725,
+        -2.069804028612408
+      ],
+      "scale": 0.66,
+      "rotation": 84
+    },
+    {
+      "id": "bush-mttx1de1-7",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -1.2902304457761389,
+        -17.278328284597677
+      ],
+      "scale": 0.66,
+      "rotation": 3
+    },
+    {
+      "id": "bush-mttx1doe-8",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        5.5920664691939805,
+        -3.2465924350082744
+      ],
+      "scale": 0.66,
+      "rotation": 244
+    },
+    {
+      "id": "bush-mttx1e4h-9",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        11.374983763688249,
+        -1.2091309030395188
+      ],
+      "scale": 0.66,
+      "rotation": 335
+    },
+    {
+      "id": "bush-mttx1es9-10",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        8.098591458023975,
+        -3.6432133518124203
+      ],
+      "scale": 0.66,
+      "rotation": 70
+    },
+    {
+      "id": "tree-mtuh3ppci70j",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -24.29144926226759,
+        -15.201662667883308
+      ],
+      "scale": 0.8,
+      "rotation": 18
+    },
+    {
+      "id": "bush-mtuh8vzs-4",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        14.75,
+        -2.25
+      ],
+      "scale": 0.66,
+      "rotation": 319
+    },
+    {
+      "id": "bush-mtuh8wy1-5",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        14.5,
+        -3.5
+      ],
+      "scale": 0.66,
+      "rotation": 49
+    },
+    {
+      "id": "bush-mtuh8xsv-6",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        14.5,
+        -5
+      ],
+      "scale": 0.66,
+      "rotation": 268
+    },
+    {
+      "id": "bush-mtuh8z08-7",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        14.5,
+        -7.75
+      ],
+      "scale": 0.66,
+      "rotation": 18
+    },
+    {
+      "id": "tree-mtuh93nq-8",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        15.582156316295592,
+        -17.883407615275928
+      ],
+      "scale": 0.8,
+      "rotation": 261
+    },
+    {
+      "id": "tree-mtuh95h4-9",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -11.341409728156915,
+        -15.228664083636613
+      ],
+      "scale": 0.8,
+      "rotation": 227
+    },
+    {
+      "id": "tree-mtuhcn3z-12",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -10.25,
+        -16.5
+      ],
+      "scale": 0.8,
+      "rotation": 54
+    },
+    {
+      "id": "tree-mtuhcnz4-13",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -1.25,
+        -18.25
+      ],
+      "scale": 0.8,
+      "rotation": 356
+    },
+    {
+      "id": "tree-mtuhcrs1-14",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -1.75,
+        -15
+      ],
+      "scale": 0.8,
+      "rotation": 75
+    },
+    {
+      "id": "tree-mtuhct6i-15",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -6.25,
+        -18
+      ],
+      "scale": 0.8,
+      "rotation": 110
+    },
+    {
+      "id": "tree-mtuhcvy1-16",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -3.7369915881679994,
+        -17.422711731561993
+      ],
+      "scale": 0.8,
+      "rotation": 31
+    },
+    {
+      "id": "tree-mtuhczjr-17",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -32.71579983687309,
+        -15.712286646331798
+      ],
+      "scale": 0.8,
+      "rotation": 307
+    },
+    {
+      "id": "tree-mtuhd0sb-18",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -26.25,
+        -15.5
+      ],
+      "scale": 0.8,
+      "rotation": 280
+    },
+    {
+      "id": "tree-mtuhd5ks-19",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        7.498207948962605,
+        -18.177427869899066
+      ],
+      "scale": 0.8,
+      "rotation": 90
+    },
+    {
+      "id": "tree-mtuhd7l4-20",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        10.262547628863377,
+        -17.982409601055764
+      ],
+      "scale": 0.8,
+      "rotation": 203
+    },
+    {
+      "id": "tree-mtuhkp60-27",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -6.530589728259117,
+        -15.46449167685957
+      ],
+      "scale": 0.8,
+      "rotation": 4
+    },
+    {
+      "id": "tree-mtuhkpso-28",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -11.497864886306916,
+        -17.86493237113983
+      ],
+      "scale": 0.8,
+      "rotation": 103
+    },
+    {
+      "id": "tree-mtuhkqy4-29",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -8.25,
+        -16.25
+      ],
+      "scale": 0.8,
+      "rotation": 354
+    },
+    {
+      "id": "tree-mtuhks7d-30",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -25.75,
+        -18
+      ],
+      "scale": 0.8,
+      "rotation": 211
+    },
+    {
+      "id": "bush-mtuie6e9-3",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -8.54894192422317,
+        -16.123940575664108
+      ],
+      "scale": 0.66,
+      "rotation": 344
+    },
+    {
+      "id": "bush-mtuieanz-4",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -12.784145402880057,
+        -2.766374030914939
+      ],
+      "scale": 0.66,
+      "rotation": 206
+    },
+    {
+      "id": "bush-mtuieb94-5",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -12.75,
+        -1.75
+      ],
+      "scale": 0.66,
+      "rotation": 286
+    },
+    {
+      "id": "bush-mtuiebsc-6",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -12.75,
+        -1
+      ],
+      "scale": 0.66,
+      "rotation": 86
+    },
+    {
+      "id": "bush-mtuiecfq-7",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -5.981515901422682,
+        -3.8515573048037517
+      ],
+      "scale": 0.66,
+      "rotation": 358
+    },
+    {
+      "id": "bush-mtuiecw9-8",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -5.5,
+        -2.25
+      ],
+      "scale": 0.66,
+      "rotation": 274
+    },
+    {
+      "id": "bush-mtuied9t-9",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -5.5,
+        -1.5
+      ],
+      "scale": 0.66,
+      "rotation": 39
+    },
+    {
+      "id": "bush-mtuiee5i-10",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -5.146233928648769,
+        -1.6998248982014452
+      ],
+      "scale": 0.66,
+      "rotation": 35
+    },
+    {
+      "id": "bush-mtuieej2-11",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -5.218575008692511,
+        0.021831204147753525
+      ],
+      "scale": 0.66,
+      "rotation": 342
+    },
+    {
+      "id": "bush-mtuief03-12",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -24.008709437623953,
+        -16.68962098509725
+      ],
+      "scale": 0.66,
+      "rotation": 294
+    },
+    {
+      "id": "bush-mtuiefbf-13",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -5.25,
+        -0.75
+      ],
+      "scale": 0.66,
+      "rotation": 347
+    },
+    {
+      "id": "bush-mtuiefxr-14",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -8,
+        -5.25
+      ],
+      "scale": 0.66,
+      "rotation": 194
+    },
+    {
+      "id": "bush-mtuiegbr-15",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -7.173982213189248,
+        -5.371739077054215
+      ],
+      "scale": 0.66,
+      "rotation": 337
+    },
+    {
+      "id": "bush-mtuieheb-16",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -12.199392250795555,
+        0.25257013466251266
+      ],
+      "scale": 0.66,
+      "rotation": 216
+    },
+    {
+      "id": "bush-mtuiehq0-17",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -11.862963928194844,
+        0.49751820677463954
+      ],
+      "scale": 0.66,
+      "rotation": 382
+    },
+    {
+      "id": "bush-mtuiei21-18",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -12.763161607380198,
+        0.04211872728304833
+      ],
+      "scale": 0.66,
+      "rotation": 178
+    },
+    {
+      "id": "bush-mtuieic8-19",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        14.815571559251055,
+        -17.941166567524093
+      ],
+      "scale": 0.66,
+      "rotation": 76
+    },
+    {
+      "id": "bush-mtvpjfeva0k2",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -23.053619535504534,
+        -0.099115114104524
+      ],
+      "scale": 0.66,
+      "rotation": 70
+    },
+    {
+      "id": "bush-mtvpjzeana3y",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -22.800612619284976,
+        0.11712668442658769
+      ],
+      "scale": 0.66,
+      "rotation": 147
+    },
+    {
+      "id": "bush-mtvpnhsxcv1j",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -25.93193819624294,
+        -5.167622542076439
+      ],
+      "scale": 0.66,
+      "rotation": 76
+    },
+    {
+      "id": "bush-mtvpnkiieba1",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -25.600653914658665,
+        0.01359986628827281
+      ],
+      "scale": 0.66,
+      "rotation": 70
+    },
+    {
+      "id": "bush-mtvpnlvp1zjc",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -25.721372103505075,
+        -4.908339008413839
+      ],
+      "scale": 0.66,
+      "rotation": 70
+    },
+    {
+      "id": "bush-mtvpnric6g8f",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -25.765411664239668,
+        -2.3344008002226557
+      ],
+      "scale": 0.66,
+      "rotation": 70
+    },
+    {
+      "id": "bush-mtvpps77m3o9",
+      "kind": "bush",
+      "model": "/models/shrub-07-green.glb",
+      "position": [
+        -24.745989953982612,
+        0.02976418683522919
+      ],
+      "scale": 0.66,
+      "rotation": 147
+    },
+    {
+      "id": "bush-mtvppuy5jq8i",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -23.887658463368364,
+        -0.1696005409881982
+      ],
+      "scale": 0.66,
+      "rotation": -110
+    },
+    {
+      "id": "bush-mtvppzehs3ai",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -22.088875226603392,
+        -0.7510795924744689
+      ],
+      "scale": 0.66,
+      "rotation": 70
+    },
+    {
+      "id": "bush-mtvpq0vlmhnj",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -22.32070213109087,
+        -5.139313012391501
+      ],
+      "scale": 0.66,
+      "rotation": 70
+    },
+    {
+      "id": "bush-mtvpq2jinfjn",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -22.339058616317672,
+        0.020665106823074098
+      ],
+      "scale": 0.66,
+      "rotation": 175
+    },
+    {
+      "id": "tree-muaec391orr0",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        10.218618023067028,
+        -6.6282666869535625
+      ],
+      "scale": 0.8,
+      "rotation": 244
+    },
+    {
+      "id": "tree-muaecj4e7rrt",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        12.162748466825859,
+        -5.409820867179301
+      ],
+      "scale": 0.8,
+      "rotation": 244
+    },
+    {
+      "id": "tree-muaeifh6p1ef",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -26.894753489761687,
+        -7.041476956575073
+      ],
+      "scale": 0.8,
+      "rotation": -35
+    },
+    {
+      "id": "tree-muaez07j-1",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        16.5,
+        -14.25
+      ],
+      "scale": 0.8,
+      "rotation": 6
+    },
+    {
+      "id": "tree-muaez0w7-2",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        29.201180195804888,
+        -14.168779986509492
+      ],
+      "scale": 0.8,
+      "rotation": 142
+    },
+    {
+      "id": "tree-muaez1n5-3",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        29.25,
+        -5.25
+      ],
+      "scale": 0.8,
+      "rotation": 233
+    },
+    {
+      "id": "tree-muaez2pt-4",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        9,
+        -18.75
+      ],
+      "scale": 0.8,
+      "rotation": 322
+    },
+    {
+      "id": "tree-muaez33l-5",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        11.25,
+        -16.75
+      ],
+      "scale": 0.8,
+      "rotation": 238
+    },
+    {
+      "id": "tree-muaez3i1-6",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        15.5,
+        -16.5
+      ],
+      "scale": 0.8,
+      "rotation": 323
+    },
+    {
+      "id": "tree-muaez4bn-7",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -9,
+        -14.75
+      ],
+      "scale": 0.8,
+      "rotation": 267
+    },
+    {
+      "id": "tree-muaez4sy-8",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -13.75,
+        -18.25
+      ],
+      "scale": 0.8,
+      "rotation": 62
+    },
+    {
+      "id": "tree-muaez5d3-9",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -20,
+        -18
+      ],
+      "scale": 0.8,
+      "rotation": 349
+    },
+    {
+      "id": "tree-muaez5vt-10",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -28,
+        -18.5
+      ],
+      "scale": 0.8,
+      "rotation": 41
+    },
+    {
+      "id": "tree-muaez6qd-11",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -24.5,
+        -5.75
+      ],
+      "scale": 0.8,
+      "rotation": 258
+    },
+    {
+      "id": "tree-muaez7oe-12",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -31.974782106982133,
+        -1.19790564329233
+      ],
+      "scale": 0.8,
+      "rotation": 340
+    },
+    {
+      "id": "tree-muaez8oq-13",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -1.25,
+        -6.25
+      ],
+      "scale": 0.8,
+      "rotation": 274
+    },
+    {
+      "id": "tree-muaez9es-14",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        1.75,
+        -6.5
+      ],
+      "scale": 0.8,
+      "rotation": 345
+    },
+    {
+      "id": "tree-muaezah7-15",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        14.5,
+        -6.75
+      ],
+      "scale": 0.8,
+      "rotation": 183
+    },
+    {
+      "id": "tree-muaezbai-16",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        25.75,
+        -5.75
+      ],
+      "scale": 0.8,
+      "rotation": 10
+    },
+    {
+      "id": "tree-muaezc3n-17",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        25.75,
+        -14.25
+      ],
+      "scale": 0.8,
+      "rotation": 140
+    },
+    {
+      "id": "tree-muaezcko-18",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        27.5,
+        -16
+      ],
+      "scale": 0.8,
+      "rotation": 198
+    },
+    {
+      "id": "tree-muaezdb1-19",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        27,
+        -4.5
+      ],
+      "scale": 0.8,
+      "rotation": 328
+    },
+    {
+      "id": "tree-muaezeho-20",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        10.75,
+        -3.25
+      ],
+      "scale": 0.8,
+      "rotation": 293
+    },
+    {
+      "id": "tree-muaezfdx-21",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -13.75,
+        -14.75
+      ],
+      "scale": 0.8,
+      "rotation": 301
+    },
+    {
+      "id": "tree-muaezfws-22",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -10,
+        -19.25
+      ],
+      "scale": 0.8,
+      "rotation": 294
+    },
+    {
+      "id": "tree-muaezh0e-23",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -34.25,
+        -19
+      ],
+      "scale": 0.8,
+      "rotation": 114
+    },
+    {
+      "id": "tree-muaezhbj-24",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -34.25,
+        -16.5
+      ],
+      "scale": 0.8,
+      "rotation": 270
+    },
+    {
+      "id": "tree-muaezhu0-25",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -31.5,
+        -16
+      ],
+      "scale": 0.8,
+      "rotation": 164
+    },
+    {
+      "id": "tree-muaezi80-26",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -32.25,
+        -18.75
+      ],
+      "scale": 0.8,
+      "rotation": 267
+    },
+    {
+      "id": "tree-muaezip9-27",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -26.75,
+        -17.5
+      ],
+      "scale": 0.8,
+      "rotation": 283
+    },
+    {
+      "id": "tree-muaezj4n-28",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -28,
+        -14.5
+      ],
+      "scale": 0.8,
+      "rotation": 261
+    },
+    {
+      "id": "tree-muaezjyr-29",
+      "kind": "tree",
+      "model": "random-tree",
+      "position": [
+        -20.657427333284495,
+        -16.143527421330166
+      ],
+      "scale": 0.8,
+      "rotation": 72
+    },
+    {
+      "id": "bush-muaeztcd-30",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        16.5,
+        -15.5
+      ],
+      "scale": 0.66,
+      "rotation": 4
+    },
+    {
+      "id": "bush-muaezts8-31",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        14.25,
+        -18.75
+      ],
+      "scale": 0.66,
+      "rotation": 39
+    },
+    {
+      "id": "bush-muaezurb-32",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -5.5,
+        -14.25
+      ],
+      "scale": 0.66,
+      "rotation": 318
+    },
+    {
+      "id": "bush-muaezvbv-33",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -4,
+        -15.5
+      ],
+      "scale": 0.66,
+      "rotation": 172
+    },
+    {
+      "id": "bush-muaezvze-34",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -20.75,
+        -14.75
+      ],
+      "scale": 0.66,
+      "rotation": 275
+    },
+    {
+      "id": "bush-muaezwh3-35",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -24.25,
+        -19
+      ],
+      "scale": 0.66,
+      "rotation": 226
+    },
+    {
+      "id": "bush-muaezwy0-36",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -27.5,
+        -16
+      ],
+      "scale": 0.66,
+      "rotation": 186
+    },
+    {
+      "id": "bush-muaezxes-37",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -32.5,
+        -15
+      ],
+      "scale": 0.66,
+      "rotation": 239
+    },
+    {
+      "id": "bush-muaezxqy-38",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        -34,
+        -15
+      ],
+      "scale": 0.66,
+      "rotation": 125
+    },
+    {
+      "id": "bush-muaezyvp-39",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        26.75,
+        -12.5
+      ],
+      "scale": 0.66,
+      "rotation": 94
+    },
+    {
+      "id": "bush-muaezzbz-40",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        25,
+        -13
+      ],
+      "scale": 0.66,
+      "rotation": 220
+    },
+    {
+      "id": "bush-muaf0013-41",
+      "kind": "bush",
+      "model": "random-bush",
+      "position": [
+        29.5,
+        -6.75
+      ],
+      "scale": 0.66,
+      "rotation": 160
+    }
+  ],
+  "vegetationLines": [],
+  "vegetationAreas": [],
+  "objects": [
+    {
+      "id": "category-01-bench-1-1",
+      "name": "Скамейки",
+      "model": "/models/skam.glb",
+      "position": [
+        -28.822564897718976,
+        -12.570519008656905
+      ],
+      "elevation": 0,
+      "scale": 0.92,
+      "rotation": -90,
+      "categoryKey": "benches",
+      "url": "https://new.hobbyka.ru/catalog/skameyki/"
+    },
+    {
+      "id": "category-01-bench-2-1",
+      "name": "Скамейки",
+      "model": "/models/skam.glb",
+      "position": [
+        1.7801781731581814,
+        -4.755976498108842
+      ],
+      "elevation": 0,
+      "scale": 0.92,
+      "rotation": -90,
+      "categoryKey": "benches",
+      "url": "https://new.hobbyka.ru/catalog/skameyki/"
+    },
+    {
+      "id": "category-02-urn-3-1",
+      "name": "Уличные урны",
+      "model": "/models/urna.glb",
+      "position": [
+        12.089178414935766,
+        -12.23516287608129
+      ],
+      "elevation": 0,
+      "scale": 0.9,
+      "rotation": -45,
+      "categoryKey": "urns",
+      "url": "https://new.hobbyka.ru/catalog/urny/"
+    },
+    {
+      "id": "category-05-pergola-4-1",
+      "name": "Навесы, перголы и беседки",
+      "model": "/models/pergola.glb",
+      "position": [
+        -29.247284770922462,
+        -3.560303384829151
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "pergolas",
+      "url": "https://new.hobbyka.ru/catalog/pavilony_i_navesy/"
+    },
+    {
+      "id": "category-05-pergola-5-1",
+      "name": "Навесы, перголы и беседки",
+      "model": "/models/pozitiv.glb",
+      "position": [
+        30.331255337669624,
+        0.030665678220412218
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": -90,
+      "categoryKey": "pergolas",
+      "url": "https://new.hobbyka.ru/catalog/pavilony_i_navesy/"
+    },
+    {
+      "id": "category-06-playground-game-6-1",
+      "name": "Детское игровое оборудование",
+      "model": "/models/game.glb",
+      "position": [
+        -10.200033309999768,
+        -3.5784416838591113
+      ],
+      "elevation": 0,
+      "scale": 0.8,
+      "rotation": 165,
+      "categoryKey": "playground",
+      "url": "https://new.hobbyka.ru/catalog/detskoe_igrovoe_oborudovanie/"
+    },
+    {
+      "id": "category-22-pesok-7-1",
+      "name": "Песочницы",
+      "model": "/models/pesok.glb",
+      "position": [
+        -8.034192496197885,
+        -1.095126033959417
+      ],
+      "elevation": 0.05,
+      "scale": 0.65,
+      "rotation": 0,
+      "categoryKey": "pesok",
+      "url": "https://new.hobbyka.ru/catalog/pesochnitsy/"
+    },
+    {
+      "id": "category-06-playground-home-8-1",
+      "name": "Детское игровое оборудование",
+      "model": "/models/home.glb",
+      "position": [
+        -6.8235464005907716,
+        -2.259035651525151
+      ],
+      "elevation": 0,
+      "scale": 0.8,
+      "rotation": 140,
+      "categoryKey": "playground",
+      "url": "https://new.hobbyka.ru/catalog/detskoe_igrovoe_oborudovanie/"
+    },
+    {
+      "id": "category-06-playground-slide-9-1",
+      "name": "Детское игровое оборудование",
+      "model": "/models/gorkakid.glb",
+      "position": [
+        -10.41559170653275,
+        -1.325635202638919
+      ],
+      "elevation": 0,
+      "scale": 0.58,
+      "rotation": -30,
+      "categoryKey": "playground",
+      "url": "https://new.hobbyka.ru/catalog/detskoe_igrovoe_oborudovanie/"
+    },
+    {
+      "id": "category-07-garden-furniture-10-1",
+      "name": "Садовая и дачная мебель",
+      "model": "/models/garden-furniture.glb",
+      "position": [
+        -28.95985269210307,
+        -2.204726033800851
+      ],
+      "elevation": 0,
+      "scale": 0.8,
+      "rotation": 90,
+      "categoryKey": "garden-furniture",
+      "url": "https://new.hobbyka.ru/catalog/sadovaia_i_dachnaia_mebel/"
+    },
+    {
+      "id": "category-08-swings-11-1",
+      "name": "Качели парковые",
+      "model": "/models/kach.glb",
+      "position": [
+        -4.612976898456111,
+        -12.520779849678437
+      ],
+      "elevation": 0,
+      "scale": 0.9,
+      "rotation": 0,
+      "categoryKey": "swings",
+      "url": "https://new.hobbyka.ru/catalog/kacheli_parkovye/"
+    },
+    {
+      "id": "category-09-planter-flora-12-1",
+      "name": "Цветочницы и вазоны",
+      "model": "/models/vazon.glb",
+      "position": [
+        -30.543108815861828,
+        0.11094093025513896
+      ],
+      "elevation": 0,
+      "scale": 0.78,
+      "rotation": 0,
+      "categoryKey": "planters",
+      "url": "https://new.hobbyka.ru/catalog/tsvetochnitsy_i_vazony_sadovoparkovye/"
+    },
+    {
+      "id": "category-09-planter-flora-12-2",
+      "name": "Цветочницы и вазоны",
+      "model": "/models/vazon.glb",
+      "position": [
+        -4.332806628676051,
+        1.0104795162971527
+      ],
+      "elevation": 0,
+      "scale": 0.78,
+      "rotation": 0,
+      "categoryKey": "planters",
+      "url": "https://new.hobbyka.ru/catalog/tsvetochnitsy_i_vazony_sadovoparkovye/"
+    },
+    {
+      "id": "category-09-planter-flora-12-3",
+      "name": "Цветочницы и вазоны",
+      "model": "/models/vazon.glb",
+      "position": [
+        13.735981706522452,
+        -0.2705262891289877
+      ],
+      "elevation": 0,
+      "scale": 0.78,
+      "rotation": 0,
+      "categoryKey": "planters",
+      "url": "https://new.hobbyka.ru/catalog/tsvetochnitsy_i_vazony_sadovoparkovye/"
+    },
+    {
+      "id": "category-11-sport-13-1",
+      "name": "Уличное спортивное оборудование",
+      "model": "/models/lider.glb",
+      "position": [
+        -18,
+        -0.75
+      ],
+      "elevation": 0,
+      "scale": 0.8,
+      "rotation": -180,
+      "categoryKey": "sports-equipment",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_sportivnoe_oborudovanie/"
+    },
+    {
+      "id": "category-11-sport-14-1",
+      "name": "Уличное спортивное оборудование",
+      "model": "/models/germes.glb",
+      "position": [
+        -18.021427974758495,
+        -2.138661038547804
+      ],
+      "elevation": 0,
+      "scale": 0.8,
+      "rotation": 0,
+      "categoryKey": "sports-equipment",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_sportivnoe_oborudovanie/"
+    },
+    {
+      "id": "category-14-lighting-admiral-15-1",
+      "name": "Освещение",
+      "model": "/models/admiral3.glb",
+      "position": [
+        -17,
+        2.2
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "category-14-lighting-fonar-16-1",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        -31,
+        2.2
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "category-14-lighting-fonar-16-2",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        -25.5,
+        2.2
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "category-15-tree-grate-01-17-1",
+      "name": "Приствольные круги и решётки",
+      "model": "/models/tree-grate-1.glb",
+      "position": [
+        -31.877482985053305,
+        -2.515148107881588
+      ],
+      "elevation": 0,
+      "scale": 0.9,
+      "rotation": 0,
+      "categoryKey": "tree-grates",
+      "url": "https://new.hobbyka.ru/catalog/reshetki_vokrug_derevev/"
+    },
+    {
+      "id": "category-15-tree-grate-02-18-1",
+      "name": "Приствольные круги и решётки",
+      "model": "/models/tree-grate-1.glb",
+      "position": [
+        -15.076568081289807,
+        -1.0890622289005503
+      ],
+      "elevation": 0,
+      "scale": 1,
+      "rotation": 0,
+      "categoryKey": "tree-grates",
+      "url": "https://new.hobbyka.ru/catalog/reshetki_vokrug_derevev/"
+    },
+    {
+      "id": "category-16-sign-19-1",
+      "name": "Стенды и указатели",
+      "model": "/models/sign.glb",
+      "position": [
+        23.361482270464403,
+        2.2800263852198155
+      ],
+      "elevation": 0,
+      "scale": 0.85,
+      "rotation": 0,
+      "categoryKey": "signs",
+      "url": "https://new.hobbyka.ru/catalog/ulichnye_stendy_ukazateli_vyveski/"
+    },
+    {
+      "id": "category-17-bike-parking-01-20-1",
+      "name": "Велосипедные парковки",
+      "model": "/models/bike-parking-1.glb",
+      "position": [
+        -33.17550268204625,
+        3.283425478553223
+      ],
+      "elevation": 0,
+      "scale": 0.8,
+      "rotation": 90,
+      "categoryKey": "bike-parking",
+      "url": "https://new.hobbyka.ru/catalog/velosipednye_parkovki/"
+    },
+    {
+      "id": "category-18-bollard-21-1",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        15.139116450466933,
+        2.3357077135929103
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-2",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        30.6,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-3",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        32.8,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-4",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        -29.9,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-5",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        -21.9142340222724,
+        2.2760571977662725
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-6",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        -14.86,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-7",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        -20.382272568792164,
+        2.362899772902706
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-8",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        -8.95,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-9",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        18.02,
+        -21.55
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-10",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        -6.98,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-11",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        -0.41,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-12",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        2.21,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-13",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        4.82,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-14",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        8.55,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-15",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        12.979314548007546,
+        2.3417912158512966
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-16",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        17.85,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-17",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        22.15,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-18",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        26.2,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-19",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        21.98,
+        -21.55
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-20",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        28.4,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-21",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        -32,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-22",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        -23.802932487465966,
+        2.2189989911279646
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-23",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        18.02,
+        -1.75
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-24",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        18.02,
+        -5.05
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-25",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        18.02,
+        -8.35
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-26",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        18.02,
+        -11.65
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-27",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        18.02,
+        -14.95
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-28",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        18.02,
+        -18.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-29",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        21.98,
+        -1.75
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-30",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        21.98,
+        -5.05
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-31",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        21.98,
+        -8.35
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-32",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        21.98,
+        -11.65
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-33",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        21.98,
+        -14.95
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-18-bollard-21-34",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        21.98,
+        -18.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "category-04-container-site-22-1",
+      "name": "Контейнерные площадки для ТБО",
+      "model": "/models/container_shelter_category.glb",
+      "position": [
+        -34.597337788036135,
+        -9.850964445703234
+      ],
+      "elevation": 0,
+      "scale": 0.4,
+      "rotation": 0,
+      "categoryKey": "container-sites",
+      "url": "https://new.hobbyka.ru/catalog/konteynernye_ploshchadki_dlya_tbo/"
+    },
+    {
+      "id": "category-23-dog-barrier-23-1",
+      "name": "Оборудование для выгула и дрессировки собак",
+      "model": "/models/prep.glb",
+      "position": [
+        2.200000000000003,
+        -0.97
+      ],
+      "elevation": 0,
+      "scale": 0.76,
+      "rotation": 90,
+      "categoryKey": "dog-equipment",
+      "url": "https://new.hobbyka.ru/catalog/ploshadki-dlya-vygula-sobak/"
+    },
+    {
+      "id": "category-23-dog-slide-24-1",
+      "name": "Оборудование для выгула и дрессировки собак",
+      "model": "/models/gorka_a.glb",
+      "position": [
+        0,
+        -0.97
+      ],
+      "elevation": 0,
+      "scale": 0.72,
+      "rotation": 0,
+      "categoryKey": "dog-equipment",
+      "url": "https://new.hobbyka.ru/catalog/ploshadki-dlya-vygula-sobak/"
+    },
+    {
+      "id": "category-25-locker-bench-rotated-25-1",
+      "name": "Скамейки для раздевалок",
+      "model": "/models/locker-bench.glb",
+      "position": [
+        6.799729363841806,
+        -1.559098913274262
+      ],
+      "elevation": 0,
+      "scale": 0.82,
+      "rotation": 90,
+      "categoryKey": "locker-benches",
+      "url": "https://new.hobbyka.ru/catalog/skameyki_dlya_razdevalok/"
+    },
+    {
+      "id": "category-25-locker-bench-rotated-25-2",
+      "name": "Скамейки для раздевалок",
+      "model": "/models/locker-bench.glb",
+      "position": [
+        7.824834398072909,
+        -1.5859120191986698
+      ],
+      "elevation": 0,
+      "scale": 0.82,
+      "rotation": 90,
+      "categoryKey": "locker-benches",
+      "url": "https://new.hobbyka.ru/catalog/skameyki_dlya_razdevalok/"
+    },
+    {
+      "id": "category-27-ski-rack-26-1",
+      "name": "Подставки для лыж и сноубордов",
+      "model": "/models/ski-rack.glb",
+      "position": [
+        9.703406575779923,
+        -1.5665509267089672
+      ],
+      "elevation": 0,
+      "scale": 0.8,
+      "rotation": 1,
+      "categoryKey": "ski-racks",
+      "url": "https://new.hobbyka.ru/catalog/oborudovanie_dlya_lyzhnykh_kurortov/"
+    },
+    {
+      "id": "category-28-firewood-27-1",
+      "name": "Дровницы и угольницы",
+      "model": "/models/firewood.glb",
+      "position": [
+        -28.36241824977277,
+        -0.2427947138009472
+      ],
+      "elevation": 0,
+      "scale": 0.82,
+      "rotation": 0,
+      "categoryKey": "firewood-storage",
+      "url": "https://new.hobbyka.ru/catalog/drovnitsy_i_ugolnitsy/"
+    },
+    {
+      "id": "category-28-firewood-27-2",
+      "name": "Дровницы и угольницы",
+      "model": "/models/firewood.glb",
+      "position": [
+        -28.806172399999202,
+        -0.1950968750132951
+      ],
+      "elevation": 0,
+      "scale": 0.82,
+      "rotation": 0,
+      "categoryKey": "firewood-storage",
+      "url": "https://new.hobbyka.ru/catalog/drovnitsy_i_ugolnitsy/"
+    },
+    {
+      "id": "drova",
+      "name": "drova",
+      "model": "/models/drova.glb",
+      "position": [
+        -28.608356748115643,
+        0.18486197790963388
+      ],
+      "elevation": 0,
+      "scale": 0.46,
+      "rotation": 90
+    },
+    {
+      "id": "bic",
+      "name": "bic",
+      "model": "/models/bicycle.glb",
+      "position": [
+        -33.94817084708482,
+        1.4603010811184234
+      ],
+      "elevation": 0,
+      "scale": 0.6,
+      "rotation": 0
+    },
+    {
+      "id": "trash",
+      "name": "trash",
+      "model": "/models/trash.glb",
+      "position": [
+        -34.59205245429013,
+        -9.266306832382927
+      ],
+      "elevation": 0,
+      "scale": 0.56,
+      "rotation": 0
+    },
+    {
+      "id": "lage",
+      "name": "lage",
+      "model": "/models/lage.glb",
+      "position": [
+        9.759124357852585,
+        -1.3594898223918874
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0
+    },
+    {
+      "id": "locker-room",
+      "name": "locker-room",
+      "model": "/models/outdoor.glb",
+      "position": [
+        7.345172115449003,
+        -1.583094991325325
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0
+    },
+    {
+      "id": "object-mtrl8q7j-1",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        24.60252265015021,
+        2.284888517331571
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "object-mtrl8t8s-2",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        6.5,
+        2.2
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "object-mtrl8wp7-3",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        -2,
+        -11.2
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "object-mtrl8zp9-4",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        4.25,
+        -4.7
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "object-mtrl96wr-5",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        -31.116740711646788,
+        -7.217299994917077
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "object-mtrlf8ax-3",
+      "name": "Качели парковые",
+      "model": "/models/kach.glb",
+      "position": [
+        32.7138875831767,
+        -9.6566716290261
+      ],
+      "elevation": 0,
+      "scale": 0.9,
+      "rotation": 0,
+      "categoryKey": "swings",
+      "url": "https://new.hobbyka.ru/catalog/kacheli_parkovye/"
+    },
+    {
+      "id": "object-mtrlf8us-5",
+      "name": "Качели парковые",
+      "model": "/models/kach.glb",
+      "position": [
+        7.892711158323497,
+        -12.34021963289831
+      ],
+      "elevation": 0,
+      "scale": 0.9,
+      "rotation": 2,
+      "categoryKey": "swings",
+      "url": "https://new.hobbyka.ru/catalog/kacheli_parkovye/"
+    },
+    {
+      "id": "object-mtrlq4m7-1",
+      "name": "Скамейки",
+      "model": "/models/skam.glb",
+      "position": [
+        10.73744964851964,
+        -12.419949245933049
+      ],
+      "elevation": 0,
+      "scale": 0.92,
+      "rotation": -90,
+      "categoryKey": "benches",
+      "url": "https://new.hobbyka.ru/catalog/skameyki/"
+    },
+    {
+      "id": "object-mtrlr2aj-1",
+      "name": "Уличные урны",
+      "model": "/models/urna.glb",
+      "position": [
+        16.428083006726638,
+        -3.833794713702847
+      ],
+      "elevation": 0,
+      "scale": 0.9,
+      "rotation": -15,
+      "categoryKey": "urns",
+      "url": "https://new.hobbyka.ru/catalog/urny/"
+    },
+    {
+      "id": "object-mtrlr3xx-2",
+      "name": "Уличные урны",
+      "model": "/models/urna.glb",
+      "position": [
+        16.485161897111908,
+        -0.21680085796286797
+      ],
+      "elevation": 0,
+      "scale": 0.9,
+      "rotation": -15,
+      "categoryKey": "urns",
+      "url": "https://new.hobbyka.ru/catalog/urny/"
+    },
+    {
+      "id": "object-mtrm6kt6-6",
+      "name": "Скамейки",
+      "model": "/models/skam.glb",
+      "position": [
+        25.923135415864195,
+        -2.84417713567575
+      ],
+      "elevation": 0,
+      "scale": 0.92,
+      "rotation": -90,
+      "categoryKey": "benches",
+      "url": "https://new.hobbyka.ru/catalog/skameyki/"
+    },
+    {
+      "id": "object-mtrm6pcp-7",
+      "name": "Скамейки",
+      "model": "/models/skam.glb",
+      "position": [
+        24.42281781893593,
+        -5.585570804569059
+      ],
+      "elevation": 0,
+      "scale": 0.92,
+      "rotation": -180,
+      "categoryKey": "benches",
+      "url": "https://new.hobbyka.ru/catalog/skameyki/"
+    },
+    {
+      "id": "category-13-terrace-furniture",
+      "name": "Мебель для дома и террас",
+      "model": "/models/model_wood_beige.glb",
+      "position": [
+        -27.274909969273,
+        -0.9971918818331318
+      ],
+      "elevation": 0,
+      "scale": 0.82,
+      "rotation": 0,
+      "categoryKey": "terrace-furniture",
+      "url": "https://new.hobbyka.ru/catalog/mebel_dlya_terras_i_besedok/"
+    },
+    {
+      "id": "object-mtrm6xsx-9",
+      "name": "Скамейки",
+      "model": "/models/skam.glb",
+      "position": [
+        28,
+        -2.8
+      ],
+      "elevation": 0,
+      "scale": 0.92,
+      "rotation": -90,
+      "categoryKey": "benches",
+      "url": "https://new.hobbyka.ru/catalog/skameyki/"
+    },
+    {
+      "id": "object-mtrmhix1-1",
+      "name": "Стенды и указатели",
+      "model": "/models/sign.glb",
+      "position": [
+        -13.17871916560615,
+        0.3431284167864064
+      ],
+      "elevation": 0.04,
+      "scale": 0.85,
+      "rotation": 0,
+      "categoryKey": "signs",
+      "url": "https://new.hobbyka.ru/catalog/ulichnye_stendy_ukazateli_vyveski/"
+    },
+    {
+      "id": "object-mtshsgki",
+      "name": "Освещение",
+      "model": "/models/admiral3.glb",
+      "position": [
+        -2.5,
+        2.2
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "object-mtskmae0-1",
+      "name": "Уличные урны",
+      "model": "/models/urna.glb",
+      "position": [
+        29.48664089764665,
+        -3.0383466459040562
+      ],
+      "elevation": 0,
+      "scale": 0.9,
+      "rotation": -45,
+      "categoryKey": "urns",
+      "url": "https://new.hobbyka.ru/catalog/urny/"
+    },
+    {
+      "id": "object-mtspsurp-3",
+      "name": "Скамейки",
+      "model": "/models/skam.glb",
+      "position": [
+        16.41085143547423,
+        -2.172201105619237
+      ],
+      "elevation": 0,
+      "scale": 0.92,
+      "rotation": 0,
+      "categoryKey": "benches",
+      "url": "https://new.hobbyka.ru/catalog/skameyki/"
+    },
+    {
+      "id": "object-mtspsvwp-4",
+      "name": "Скамейки",
+      "model": "/models/skam.glb",
+      "position": [
+        16.396807228528303,
+        -5.780117584469867
+      ],
+      "elevation": 0,
+      "scale": 0.92,
+      "rotation": 0,
+      "categoryKey": "benches",
+      "url": "https://new.hobbyka.ru/catalog/skameyki/"
+    },
+    {
+      "id": "category-10-smart-city",
+      "name": "Умный город",
+      "model": "/models/smart_trash.glb",
+      "position": [
+        11.668482394780852,
+        2.2275503636445215
+      ],
+      "elevation": 0,
+      "scale": 0.4,
+      "rotation": 180,
+      "categoryKey": "smart-city",
+      "url": "https://new.hobbyka.ru/catalog/umnyy_gorod/"
+    },
+    {
+      "id": "object-mtspswi0-6",
+      "name": "Скамейки",
+      "model": "/models/skam.glb",
+      "position": [
+        -0.8865800304394882,
+        -4.820497564365757
+      ],
+      "elevation": 0,
+      "scale": 0.92,
+      "rotation": -90,
+      "categoryKey": "benches",
+      "url": "https://new.hobbyka.ru/catalog/skameyki/"
+    },
+    {
+      "id": "object-mtssiidq-5",
+      "name": "Скамейки",
+      "model": "/models/skam.glb",
+      "position": [
+        -9.915646408846891,
+        -12.377757800004531
+      ],
+      "elevation": 0,
+      "scale": 0.92,
+      "rotation": -90,
+      "categoryKey": "benches",
+      "url": "https://new.hobbyka.ru/catalog/skameyki/"
+    },
+    {
+      "id": "object-mttwo67hew7i",
+      "name": "Приствольные круги и решётки",
+      "model": "/models/tree-grate-1.glb",
+      "position": [
+        -26.825511743783345,
+        -7.015426570234194
+      ],
+      "elevation": 0,
+      "scale": 0.9,
+      "rotation": 0,
+      "categoryKey": "tree-grates",
+      "url": "https://new.hobbyka.ru/catalog/reshetki_vokrug_derevev/"
+    },
+    {
+      "id": "object-mttzbcv2rb4e",
+      "name": "Уличные урны",
+      "model": "/models/urna.glb",
+      "position": [
+        0.4478301686989754,
+        -4.719086922562307
+      ],
+      "elevation": 0,
+      "scale": 0.9,
+      "rotation": -15,
+      "categoryKey": "urns",
+      "url": "https://new.hobbyka.ru/catalog/urny/"
+    },
+    {
+      "id": "object-mtuf1qy7t3xk",
+      "name": "Приствольные круги и решётки",
+      "model": "/models/tree-grate-1.glb",
+      "position": [
+        15.075290941848323,
+        -0.3968086335933556
+      ],
+      "elevation": 0,
+      "scale": 0.9,
+      "rotation": 0,
+      "categoryKey": "tree-grates",
+      "url": "https://new.hobbyka.ru/catalog/reshetki_vokrug_derevev/"
+    },
+    {
+      "id": "object-mtui1ib3-1",
+      "name": "pesh",
+      "model": "/models/pesh.glb",
+      "position": [
+        10.95862806942796,
+        2.35460962951832
+      ],
+      "elevation": 0,
+      "scale": 0.85,
+      "rotation": -90
+    },
+    {
+      "id": "object-mtui2ff5uypo",
+      "name": "pesh",
+      "model": "/models/pesh.glb",
+      "position": [
+        18.02076795982032,
+        -0.872841377811175
+      ],
+      "elevation": 0,
+      "scale": 0.85,
+      "rotation": 0
+    },
+    {
+      "id": "object-mtui2tqzyyy2",
+      "name": "pesh",
+      "model": "/models/pesh.glb",
+      "position": [
+        21.8072011009277,
+        1.455604070170975
+      ],
+      "elevation": 0,
+      "scale": 0.85,
+      "rotation": 0
+    },
+    {
+      "id": "object-mtunme1qniq6",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        -10.92,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "object-mtunmppj52l3",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        -5.01,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "object-mtunmu203j4z",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        -12.89,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "object-mtunp29qawve",
+      "name": "Приствольные круги и решётки",
+      "model": "/models/tree-grate-1.glb",
+      "position": [
+        10.15050363376372,
+        -6.6788334629838175
+      ],
+      "elevation": 0,
+      "scale": 1,
+      "rotation": 0,
+      "categoryKey": "tree-grates",
+      "url": "https://new.hobbyka.ru/catalog/reshetki_vokrug_derevev/"
+    },
+    {
+      "id": "object-mtuntqshh8et",
+      "name": "Приствольные круги и решётки",
+      "model": "/models/tree-grate-1.glb",
+      "position": [
+        12.15984446869643,
+        -5.257125974012576
+      ],
+      "elevation": 0,
+      "scale": 0.9,
+      "rotation": 0,
+      "categoryKey": "tree-grates",
+      "url": "https://new.hobbyka.ru/catalog/reshetki_vokrug_derevev/"
+    },
+    {
+      "id": "object-mtvccujp-3",
+      "name": "building park edge",
+      "model": "/models/building-park-edge.glb",
+      "position": [
+        -23.980483484823182,
+        -2.997364979639789
+      ],
+      "elevation": 0,
+      "scale": 4,
+      "rotation": 270
+    },
+    {
+      "id": "object-mtvcfgm2792l",
+      "name": "Тротуарные столбики и ограждения",
+      "model": "/models/bollard-standart.glb",
+      "position": [
+        -27.8,
+        2.25
+      ],
+      "elevation": 0,
+      "scale": 0.7,
+      "rotation": 0,
+      "categoryKey": "bollards",
+      "url": "https://new.hobbyka.ru/catalog/trotuarnye_stolbiki/"
+    },
+    {
+      "id": "object-mtvpfw18-3",
+      "name": "Корзины для кондиционеров",
+      "model": "/models/ac-basket.glb",
+      "position": [
+        -23.27457780447199,
+        -0.4274680096211796
+      ],
+      "elevation": 1.2,
+      "scale": 0.8,
+      "rotation": 0,
+      "categoryKey": "ac-baskets",
+      "url": "https://new.hobbyka.ru/catalog/korziny_dlya_konditsionerov/"
+    },
+    {
+      "id": "object-mtvph6fkr5r9",
+      "name": "drova",
+      "model": "/models/drova.glb",
+      "position": [
+        -28.375437998631465,
+        -0.379298531223355
+      ],
+      "elevation": 0.3,
+      "scale": 0.46,
+      "rotation": 180
+    },
+    {
+      "id": "object-mtvphmolsosq",
+      "name": "drova",
+      "model": "/models/drova.glb",
+      "position": [
+        -28.791851521571676,
+        -0.34659592314917287
+      ],
+      "elevation": 0.3,
+      "scale": 0.46,
+      "rotation": 180
+    },
+    {
+      "id": "object-mu9zdk5uyujt",
+      "name": "Уличные урны",
+      "model": "/models/urna.glb",
+      "position": [
+        24.505594318222315,
+        -3.2562737423692485
+      ],
+      "elevation": 0,
+      "scale": 0.9,
+      "rotation": -45,
+      "categoryKey": "urns",
+      "url": "https://new.hobbyka.ru/catalog/urny/"
+    },
+    {
+      "id": "object-mua0h6z5-2",
+      "name": "commercial d",
+      "model": "/models/commercial-d.glb",
+      "position": [
+        -16.940662656778976,
+        -16.03885899611228
+      ],
+      "elevation": 0,
+      "scale": 4,
+      "rotation": -180
+    },
+    {
+      "id": "object-muae2nkb-2",
+      "name": "commercial k",
+      "model": "/models/commercial-k.glb",
+      "position": [
+        26.065611189373442,
+        -24.22036268179245
+      ],
+      "elevation": 0,
+      "scale": 4,
+      "rotation": 180
+    },
+    {
+      "id": "object-muae2qhw-3",
+      "name": "commercial l",
+      "model": "/models/commercial-l.glb",
+      "position": [
+        3.1250905455284785,
+        -16.445183191795156
+      ],
+      "elevation": 0,
+      "scale": 4,
+      "rotation": -180
+    },
+    {
+      "id": "object-muae2t4k-4",
+      "name": "commercial low detail m",
+      "model": "/models/commercial-low-detail-m.glb",
+      "position": [
+        34.9501936932699,
+        -23.558663145923695
+      ],
+      "elevation": 0,
+      "scale": 4,
+      "rotation": 0
+    },
+    {
+      "id": "object-muae5czc-1",
+      "name": "commercial e",
+      "model": "/models/commercial-e.glb",
+      "position": [
+        11.5,
+        -23.25
+      ],
+      "elevation": 0,
+      "scale": 4,
+      "rotation": 0
+    },
+    {
+      "id": "object-muae5fud-2",
+      "name": "commercial b",
+      "model": "/models/commercial-b.glb",
+      "position": [
+        -27.75,
+        -23.25
+      ],
+      "elevation": 0,
+      "scale": 4,
+      "rotation": -180
+    },
+    {
+      "id": "object-muae5llr-4",
+      "name": "commercial g",
+      "model": "/models/commercial-g.glb",
+      "position": [
+        32.29699084654277,
+        -19.364100941648445
+      ],
+      "elevation": 0,
+      "scale": 4,
+      "rotation": -180
+    },
+    {
+      "id": "object-muae6vb0-5",
+      "name": "commercial g",
+      "model": "/models/commercial-g.glb",
+      "position": [
+        -5.75,
+        -22
+      ],
+      "elevation": 0,
+      "scale": 4,
+      "rotation": 0
+    },
+    {
+      "id": "lighting-layout-front-01",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        -10,
+        2.2
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "lighting-layout-front-02",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        14.109219206865136,
+        2.307623192717835
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "lighting-layout-front-03",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        30.361203283908544,
+        -4.562300909549514
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "lighting-layout-side-04",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        18,
+        -6.7
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "lighting-layout-side-05",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        22.7,
+        -6.7
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "lighting-layout-side-06",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        18,
+        -13
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "lighting-layout-side-07",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        22.7,
+        -13
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "lighting-layout-side-08",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        18,
+        -19.5
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "lighting-layout-side-09",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        22.7,
+        -19.5
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "lighting-layout-promenade-10",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        -32,
+        -11.2
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "lighting-layout-promenade-11",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        -24.8,
+        -11.2
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "lighting-layout-promenade-12",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        -17.6,
+        -11.2
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "lighting-layout-promenade-13",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        -11.521475993145547,
+        -12.591320650603937
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "lighting-layout-promenade-14",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        5.8,
+        -11.2
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "lighting-layout-promenade-15",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        13.5,
+        -11.2
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "lighting-layout-garden-16",
+      "name": "Освещение",
+      "model": "/models/lantern-1.glb",
+      "position": [
+        -13.211497447984442,
+        -7.23456744509822
+      ],
+      "elevation": 0,
+      "scale": 0.88,
+      "rotation": 0,
+      "categoryKey": "lighting",
+      "url": "https://new.hobbyka.ru/catalog/ulichnoe_i_sadovoparkovoe_osveshchenie/"
+    },
+    {
+      "id": "object-mub9zt2j-1",
+      "name": "Лежаки и шезлонги",
+      "model": "/models/volna.glb",
+      "position": [
+        -21.65602047550568,
+        -6.095500984958125
+      ],
+      "elevation": 0,
+      "scale": 1,
+      "rotation": -60,
+      "url": "https://new.hobbyka.ru/catalog/lezhaki_dlya_plyazha_i_dachi/"
+    },
+    {
+      "id": "object-muba3t4k-1",
+      "name": "commercial g",
+      "model": "/models/commercial-j.glb",
+      "position": [
+        1.5,
+        -24.75
+      ],
+      "elevation": 0,
+      "scale": 4,
+      "rotation": 0
+    },
+    {
+      "id": "object-muba3zkk-2",
+      "name": "commercial k",
+      "model": "/models/commercial-k.glb",
+      "position": [
+        -17,
+        -25
+      ],
+      "elevation": 0,
+      "scale": 4,
+      "rotation": 180
+    }
+  ]
+}

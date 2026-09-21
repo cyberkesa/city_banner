@@ -1,0 +1,16 @@
+{
+  "build": {
+    "env": {
+      "NODE_VERSION": "22"
+    }
+  },
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist/client",
+  "framework": "vite",
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
+  ]
+}
